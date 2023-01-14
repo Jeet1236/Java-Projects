@@ -1,0 +1,19 @@
+
+public class Experimenting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	 char name = 'j';
+	 int age = 20;
+	 boolean innocent = true;
+	 String collegeName = "AlgonquinCollege" ;
+     System.out.println(collegeName);
+     System.out.println(innocent);
+     System.out.println(age);
+     System.out.println(name);
+     System.out.println(collegeName.charAt(9));
+
+	}
+
+}

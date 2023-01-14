@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"YourPurchasesTest2","l":"EPSILON"},{"p":"<Unnamed>","c":"YourPurchasesTest2","l":"testCalculateChange()"},{"p":"<Unnamed>","c":"YourPurchasesTest2","l":"testReceivePayment()"},{"p":"<Unnamed>","c":"YourPurchasesTest2","l":"testRecordPurchase()"},{"p":"<Unnamed>","c":"YourPurchasesTest2","l":"YourPurchasesTest2()","url":"%3Cinit%3E()"}]

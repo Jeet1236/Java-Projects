@@ -1,0 +1,27 @@
+
+public class Experimenting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	 char name = 'j';
+	 int age = 20;
+	 boolean innocent = true;
+	 String collegeName = "AlgonquinCollege" ;
+     System.out.println(collegeName);
+     System.out.println(innocent);
+     System.out.println(age);
+     System.out.println(name);
+     System.out.println(collegeName.charAt(9));
+  
+     public Triangle(int base, int height,int side) {
+    	 this.base = base;
+    	 this.height = height;
+    	 this.side = height;
+     }
+     Triangle triangle1 = new Triangle(2,3,4);
+     System.out.println(triangle1.base);
+     
+	}
+
+}
